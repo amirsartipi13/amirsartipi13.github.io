@@ -7,10 +7,10 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Your Name / Site Title"
+title                    : "Amir Sartipi"
 title_separator          : "-"
 name                     : &name "Amir"
-description              : &description "personal description"
+description              : &description "Researcher and developer interested in applied NLP and GCN"
 url                      : https://amirsartipi13.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "amirsartipi13/amirsartipi13.github.io"
