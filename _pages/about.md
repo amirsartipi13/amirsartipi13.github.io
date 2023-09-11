@@ -8,8 +8,6 @@ redirect_from:
   - /about.html
 ---
 
-Hi there! My name is Amir Sartipi, and I'm a researcher and developer with a focus on AI, NLP applications, deep learning, and machine learning. I have over two years of experience working in the NLP field. I'm currently in the final stages of completing my master's degree in computer science at the University of Isfahan, where I also earned my bachelor's degree in the same field.
+Hello, I'm Amir Sartipi, a researcher and developer with a focus on AI, NLP applications, deep learning, and machine learning. With over six years of coding experience, including more than three years specialized in NLP, I've recently earned my Master's degree in Software Engineering from the University of Isfahan. My educational journey also includes a bachelor's degree from the same institution, solidifying my foundation in computer science.
 
-As a research assistant at the University of Isfahan and an NLP developer at Vira Virast, I'm always looking for new and innovative ways to use technology to solve complex problems. With three years of experience as a full-stack web developer, I've also gained a deep understanding of the software development process.
-
-In my research and development work, I'm particularly interested in data science, deep learning, and graph neural networks. Over the past two years, I've had the opportunity to work on a variety of NLP projects.
+Currently, I'm an NLP Engineer at both Neuroship and Viravirast, where I leverage cutting-edge techniques and multiple libraries to work on a broad spectrum of NLP subtasks. These include Named Entity Recognition (NER) in multilingual contexts, text classification, sequence labeling, machine translation, and working with Large Language Models (LLMs). My prior experience as a research assistant and a full-stack web developer has endowed me with an in-depth understanding of both theoretical and practical aspects of technology, from research to application development. My work combines innovation and problem-solving, driven by my interests in data science, deep learning, and graph neural networks.
